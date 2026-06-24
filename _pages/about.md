@@ -54,16 +54,23 @@ redirect_from:
 }
 .pub-venue {
   position: absolute;
-  top: 10px;
-  left: -8px;
-  padding: 7px 15px;
+  top: 12px;
+  left: -10px;
+  min-width: 145px;
+  height: 34px;
+  padding: 0 18px;
+  box-sizing: border-box;
   background: #1f5aa6;
   color: #ffffff;
-  font-size: 0.82rem;
+  font-size: 0.86rem;
   font-weight: 800;
-  letter-spacing: 0.02em;
-  border-radius: 0 4px 4px 0;
+  letter-spacing: 0.03em;
+  line-height: 34px;
+  text-align: center;
+  white-space: nowrap;
+  border-radius: 0 5px 5px 0;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.18);
+  z-index: 2;
 }
 
 .pub-title {
