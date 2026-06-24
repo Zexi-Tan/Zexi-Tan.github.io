@@ -13,8 +13,8 @@ redirect_from:
   grid-template-columns: 40% 1fr;
   gap: 2.2rem;
   align-items: center;
-  padding: 1.15rem 1.5rem;
-  margin: 1.4rem 0;
+  padding: 1.35rem 1.55rem;
+  margin: 1.35rem 0;
   border: 1px solid #e6edf5;
   border-radius: 16px;
   background: #ffffff;
@@ -24,23 +24,15 @@ redirect_from:
 .pub-img-wrap {
   position: relative;
   width: 100%;
-  aspect-ratio: 2.35 / 1;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background: #ffffff;
-  border: 1px solid #d9e2ef;
-  border-radius: 5px;
-  overflow: hidden;
+  line-height: 0;
 }
 
 .pub-img-wrap img {
+  display: block;
   width: 100%;
-  height: 100%;
-  object-fit: contain;
-  object-position: center;
-  border: none;
-  border-radius: 0;
+  height: auto;
+  border-radius: 4px;
+  border: 1px solid #d9e2ef;
   background: #ffffff;
 }
 .pub-venue {
