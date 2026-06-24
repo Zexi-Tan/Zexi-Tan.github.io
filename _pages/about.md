@@ -7,25 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year undergraduate student in the **Fuxi Class of Computer Science and Technology** at the **School of Computer Science and Technology, Guangdong University of Technology**. I am advised by **Prof. Yiqun Zhang** at Guangdong University of Technology and **Prof. Xiaoming Zhang** at Hong Kong Baptist University.
-
-My research interests lie in **data mining**, **machine learning**, **time-series data analysis**, and **unsupervised representation learning**. In particular, I am interested in developing robust and interpretable representation learning methods for complex multivariate time-series data, with applications in clustering, anomaly detection, and medical time-series analysis.
+I am a third-year undergraduate student in the **Fuxi Class of Computer Science and Technology** at the **School of Computer Science and Technology, Guangdong University of Technology**. I am advised by **[Prof. Yiqun Zhang](https://yqzhang-zz.github.io/zh/)** at Guangdong University of Technology and **[Prof. Yiu-ming Cheung](https://www.comp.hkbu.edu.hk/%7Eymc/)** at Hong Kong Baptist University.
 
 ## Research Interests
 
-- Time-Series Representation Learning
-- Multivariate Time-Series Clustering
+- Time Series Representation Learning
 - Unsupervised Learning and Data Mining
-- Medical Time-Series Analysis
-- Robust Pattern Mining
-- Contrastive Learning and Masked Representation Learning
 
 ## News
-- **2026**: One second-author paper was accepted by **SIGKDD 2026**.
-- **2026**: One first-author paper was accepted by **AAAI 2026**.
-- **2025**: One first-author paper was accepted by **IEEE BIBM 2025**.
-- **2025**: One first-author paper was accepted by **PRICAI 2025**.
-- **2025**: One second-author paper was accepted by **IEEE Internet of Things Journal**.
+- **2026**: One paper was accepted by **SIGKDD 2026**.
+- **2026**: One paper was accepted by **AAAI 2026**.
+- **2025**: One paper was accepted by **IEEE BIBM 2025**.
+- **2025**: One paper was accepted by **PRICAI 2025**.
+- **2025**: One paper was accepted by **IEEE Internet of Things Journal**.
 - **2025**: Our team won the **First Prize** in the National Finals of the China Collegiate Computing Competition.
 - **2025**: Our team won the **Third Prize** in the National “Challenge Cup” Competition.
 
