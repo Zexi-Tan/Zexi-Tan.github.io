@@ -189,7 +189,7 @@ I am a third-year undergraduate student in the **Fuxi Class of Computer Science 
 
 <div class="pub-card">
   <div class="pub-img-wrap">
-    <img src="/images/publications/KDD2026.png" alt="Mask the Redundancy">
+    <img src="/images/publications/KDD2026.png" alt="KDD2026">
     <div class="pub-venue">SIGKDD · 2026</div>
   </div>
 
@@ -212,7 +212,7 @@ I am a third-year undergraduate student in the **Fuxi Class of Computer Science 
 
 <div class="pub-card">
   <div class="pub-img-wrap">
-    <img src="/images/publications/KDD2026.png" alt="Mask the Redundancy">
+    <img src="/images/publications/BIBM2025.png" alt="BIBM2025">
     <div class="pub-venue">BIBM · 2025</div>
   </div>
 
