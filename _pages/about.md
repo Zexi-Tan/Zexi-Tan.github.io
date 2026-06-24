@@ -14,7 +14,7 @@ I am a third-year undergraduate student in the **Fuxi Class of Computer Science 
 - Time Series Representation Learning
 - Unsupervised Learning and Data Mining
 
-## <i class="fa fa-newspaper-o"></i> News
+## <i class="fas fa-newspaper" aria-hidden="true"></i> News
 - **2026**: One paper was accepted by **SIGKDD 2026**.
 - **2026**: One paper was accepted by **AAAI 2026**.
 - **2025**: One paper was accepted by **IEEE Internet of Things Journal**.
