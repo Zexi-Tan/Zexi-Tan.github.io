@@ -163,6 +163,29 @@ I am a third-year undergraduate student in the **Fuxi Class of Computer Science 
   </div>
 </div>
 
+<div class="pub-card">
+  <div class="pub-img-wrap">
+    <img src="/images/publications/mask_redundancy.png" alt="Mask the Redundancy">
+    <div class="pub-venue">SIGKDD · 2026</div>
+  </div>
+
+  <div class="pub-content">
+    <div class="pub-title">
+      AnchorMoE: Interpretable Time Series Classification via Anchor-Routed MoE
+    </div>
+
+    <div class="pub-authors">
+      Tao Xie, <strong>Zexi Tan</strong>, Haoyi Xiao, Mengke Li, Yiqun Zhang*, Yang Lu, Cuie Yang, Yiu-ming Cheung
+    </div>
+
+    <div class="pub-desc">
+      Proceedings of the 2026 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.
+    </div>
+
+    <div class="pub-badge">CCF-A</div>
+  </div>
+</div>
+
 **DE3S: Dual-Enhanced Soft-Sparse-Shape Learning for Medical Early Time-Series Classification**  
 Tao Xie†, **Zexi Tan†**, Haoyi Xiao, Yiqun Zhang*, and Binbin Sun  
 *IEEE International Conference on Bioinformatics and Biomedicine* (**BIBM 2025**)  
@@ -173,10 +196,6 @@ CCF-B
 *Pacific Rim International Conference on Artificial Intelligence* (**PRICAI 2025**)  
 CCF-C
 
-**Time-Series Data Clustering via Dual-Path Complementary Contrastive Learning**  
-**Zexi Tan**, Xiaopeng Luo, Zheng Zhu, Yang Lu, Mengke Li, and Yiqun Zhang*  
-*International Conference on Computational Intelligence and Security* (**CIS 2024**)  
-EI
 
 ### Journal Papers
 
