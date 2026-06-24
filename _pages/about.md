@@ -210,10 +210,28 @@ I am a third-year undergraduate student in the **Fuxi Class of Computer Science 
   </div>
 </div>
 
-**DE3S: Dual-Enhanced Soft-Sparse-Shape Learning for Medical Early Time-Series Classification**  
-Tao Xie†, **Zexi Tan†**, Haoyi Xiao, Yiqun Zhang*, and Binbin Sun  
-*IEEE International Conference on Bioinformatics and Biomedicine* (**BIBM 2025**)  
-CCF-B
+<div class="pub-card">
+  <div class="pub-img-wrap">
+    <img src="/images/publications/KDD2026.png" alt="Mask the Redundancy">
+    <div class="pub-venue">BIBM · 2025</div>
+  </div>
+
+  <div class="pub-content">
+    <div class="pub-title">
+      DE3S: Dual-Enhanced Soft-Sparse-Shape Learning for Medical Early Time-Series Classification
+    </div>
+
+    <div class="pub-authors">
+      Tao Xie†, <strong>Zexi Tan†</strong>, Haoyi Xiao, Yiqun Zhang*, Binbin Sun 
+    </div>
+
+    <div class="pub-desc">
+      Proceedings of the 2025 IEEE International Conference on Bioinformatics and Biomedicine.
+    </div>
+
+    <div class="pub-badge">CCF-B</div>
+  </div>
+</div>
 
 **MEET-Sepsis: Multi-Endogenous-View Enhanced Time-Series Representation Learning for Early Sepsis Prediction**  
 **Zexi Tan**, Tao Xie, Binbin Sun, Xiang Zhang, Yiqun Zhang*, and Yiu-ming Cheung*  
