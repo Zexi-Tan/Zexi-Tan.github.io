@@ -261,7 +261,7 @@ I am a third-year undergraduate student in the **Fuxi Class of Computer Science 
 
 <div class="pub-card">
   <div class="pub-img-wrap">
-    <img src="/images/publications/PRICAI2025.png" alt="PRICAI2025">
+    <img src="/images/publications/IOTJ2025.png" alt="IoTJ2025">
     <div class="pub-venue">IoTJ · 2025</div>
   </div>
 
