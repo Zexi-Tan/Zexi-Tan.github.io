@@ -252,13 +252,14 @@ I am a third-year undergraduate student in the **Fuxi Class of Computer Science 
 - Unsupervised Learning and Data Mining
 
 ## <i class="fas fa-bullhorn"></i> News
+- **2026**: Our team won the **Grand Prize** in the Huashang Smart Performance: Global AI Scenario-Based Practical Innovation Competition. (**The Highest Prize**)
 - **2026**: One paper was accepted by **SIGKDD 2026**.
 - **2026**: One paper was accepted by **AAAI 2026**.
 - **2025**: One paper was accepted by **IEEE Internet of Things Journal**.
 - **2025**: One paper was accepted by **IEEE BIBM 2025**.
 - **2025**: One paper was accepted by **PRICAI 2025**.
 - **2025**: Our team won the **Third Prize** in the National “Challenge Cup” Competition. (Membership: Rank 3)
-- **2025**: Our team won the **First Prize** in the National Finals of the China Collegiate Computing Competition. (Membership: Rank 1)
+- **2025**: Our team won the **First Prize** in the National Finals of the China Collegiate Computing Competition. (**The Highest Prize**)
 - ...
 
 ## <i class="fas fa-book-open"></i> Selected Publications
@@ -432,29 +433,74 @@ I am a third-year undergraduate student in the **Fuxi Class of Computer Science 
 
 ## <i class="fas fa-code-branch"></i> Projects
 
-### Representation Learning for Complex Time-Series Data
+### Complex Time-Series Representation Learning
 
-I lead a national-level undergraduate innovation training project on representation learning for complex time-series data. This project focuses on extracting discriminative and robust features from redundant multivariate time-series signals through multi-view enhancement, adaptive masking, and contrastive learning. The developed methods have been applied to unsupervised time-series clustering and early medical time-series prediction tasks.
+I serve as the **host and rank-1 member** of a national-level undergraduate innovation training project on complex time series representation learning, selected with a **top 1% selection rate** and completed with an outstanding evaluation. This project targets a central challenge in real-world temporal data: how to learn compact, discriminative, and semantically reliable representations from noisy, redundant, and heterogeneous multivariate time series signals.
 
-Representative outcomes include papers accepted by **AAAI 2026**, **BIBM 2025**, and **PRICAI 2025**, as well as an ongoing submission to **IEEE Transactions on Knowledge and Data Engineering**.
+My work develops a series of representation learning frameworks around **multi-view enhancement**, **adaptive masking**, **redundancy suppression**, and **structure-preserving contrastive learning**. Rather than treating time series as ordinary sequential inputs, this line of research focuses on identifying the sparse but decisive temporal patterns behind complex signals, with applications in **unsupervised time series clustering**, **early medical time series prediction**, and **scalable temporal data mining**.
 
-### Unsupervised Learning and Robust Pattern Mining
+This project has led to multiple first-author research outcomes, including papers accepted by **AAAI 2026**, **BIBM 2025**, and **PRICAI 2025**, as well as ongoing submissions to top-tier venues such as **ICDE**, **SIGMOD**, and **TPAMI**. The team also won the **National First Prize** in the Chinese Collegiate Computing Competition, where I served as the host and rank-1 member.
 
-I also work on robust unsupervised learning for high-dimensional and dynamic data environments. This line of research focuses on subspace clustering, streaming data clustering, data drift, and the detection of scattered and clustered outliers in complex IoT systems.
+### Robust Unsupervised Learning and Pattern Discovery
 
-Representative outcomes include papers published in **IEEE Internet of Things Journal**, **IEEE Transactions on Neural Networks and Learning Systems**, and **Neurocomputing**.
+I also lead a Guangdong Provincial Tech Innovation Project on robust unsupervised learning for high-dimensional and dynamic data. The project was selected as **one of only 13 projects university-wide** and **one of only two undergraduate projects**, reflecting its competitiveness and research potential.
+
+This research line studies how unsupervised models can remain reliable when data distributions are imbalanced, drifting, sparse, or contaminated by mixed outlier structures. My work focuses on **unbiased subspace clustering**, **adaptive streaming data clustering**, **cluster imbalance**, **concept drift**, and the joint detection of **scattered and clustered outliers** in complex IoT and dynamic data environments.
+
+Representative outcomes include publications in **IEEE Internet of Things Journal**, **IEEE Transactions on Neural Networks and Learning Systems**, and **Neurocomputing**, covering robust outlier detection, imbalanced streaming data clustering, and subspace density-based clustering. The project also supported award-winning research recognized in the **Challenge Cup** competition, including a provincial grand prize and a national third prize.
+
 
 ## <i class="fas fa-trophy"></i> Honors and Awards
 
-- National Scholarship, 2024–2025
-- First Prize, China Collegiate Computing Competition, National Finals, 2025
-- Third Prize, National “Challenge Cup” Competition, 2025
-- Special Prize, Guangdong “Challenge Cup” Competition, 2025
-- PRICAI+IVCNZ Student Scholarship, 2025
-- First Prize, NSFOCUS Public Welfare Foundation Education Scholarship, 2025
-- Bronze Award, China International College Students’ Innovation Competition, Guangdong Division, 2024
-- Bronze Award, “Challenge Cup” Qinchuangyuan China College Students’ Entrepreneurship Competition, 2024
-- Third Prize, Contemporary Undergraduate Mathematical Contest in Modeling, Guangdong Division, 2024
+### Competitions and Research Awards
+
+* **National First Prize**, Chinese Collegiate Computing Competition, Big Data Track, 2025
+  *Rank-1 member and project host; officially recommended by Prof. Xiaoyong Du.*
+
+* **National Third Prize**, “Challenge Cup” National Undergraduate Academic Competition, Natural Science Academic Paper Track, 2025
+  *Rank-3 member; advanced from the provincial grand prize team.*
+
+* **Grand Prize**, Guangdong “Challenge Cup” Undergraduate Academic Competition, Natural Science Academic Paper Track, 2025
+  *Top-ranked provincial award; officially recommended by Prof. Weiming Shen and Prof. Hongming Cai.*
+
+* **National Third Prize**, “Challenge Cup” Technological Innovation Track, 2024
+  *Core member.*
+
+* **Bronze Award / Provincial Third Prize**, China International College Students’ Innovation Competition, Guangdong Division, 2024
+  *Technological innovation track; core member.*
+
+* **Provincial Third Prize**, Guangdong Contemporary Undergraduate Mathematical Contest in Modeling, 2024
+  *Responsible for algorithm implementation and code development.*
+
+* **Provincial Third Prize**, Lanqiao Cup C/C++ Programming Competition, Guangdong Region, 2024
+  *Individual programming competition.*
+
+### Scholarships and Academic Honors
+
+* **National Scholarship**, 2024–2025
+  *One of the highest national-level scholarships for undergraduates in China.*
+
+* **PRICAI+IVCNZ Student Scholarship**, 2025
+  *International scholarship; recommended by Prof. Yiu-ming Cheung.*
+
+* **First Prize**, NSFOCUS Public Welfare Foundation Education Scholarship, 2025
+  *The only recipient in Guangdong University of Technology.*
+
+* **Lianji Outstanding Student Scholarship**, 2025
+
+* **Lianji Outstanding Team Scholarship**, 2024 and 2025
+  *Received twice.*
+
+* **Ting Hsin Scholarship**, 2025
+
+* **37 Interactive Entertainment University Student Empowerment Scholarship**, 2024
+
+* **First-Class University Scholarship**, Guangdong University of Technology, 2024
+
+* **Third-Class University Scholarship**, Guangdong University of Technology, 2025
+
+* **Outstanding Student Leader Scholarship**, Guangdong University of Technology, 2024
+
 
 ## <i class="fas fa-users"></i> Academic Services
 
