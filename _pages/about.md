@@ -215,7 +215,10 @@ redirect_from:
 </style>
 
 
-I am a third-year undergraduate student in the **Fuxi Class of Computer Science and Technology** at the **School of Computer Science and Technology, Guangdong University of Technology**. My mentor is **[Prof. Yiqun Zhang](https://yqzhang-zz.github.io/zh/)** at Guangdong University of Technology. Under the guidance of my mentor, I have published 11 papers, with nearly 100 citations on Google Scholar.
+I am a third-year undergraduate student in the **Fuxi Class of Computer Science and Technology** at the **School of Computer Science and Technology, Guangdong University of Technology**, advised by **[Prof. Yiqun Zhang](https://yqzhang-zz.github.io/zh/)**. My research focuses on **data mining**, **time series analysis**, and **unsupervised representation learning**, with a particular interest in learning robust and interpretable representations from noisy, redundant, and dynamic multivariate time-series data.
+
+I have published **11 papers**, with nearly **100 citations on Google Scholar**. My work has appeared in venues including **SIGKDD**, **AAAI**, **BIBM**, **PRICAI**, **IEEE Internet of Things Journal**, **TNNLS**, and **Neurocomputing**, and spans applications such as time series clustering, early medical prediction, streaming data mining, and robust outlier detection. I also serve as the **rank-1 host** of a national-level undergraduate innovation project and have received honors including the **National Scholarship** and the **National First Prize** in the Chinese Collegiate Computing Competition.
+
 
 ## <i class="fas fa-user-graduate"></i> Education
 
