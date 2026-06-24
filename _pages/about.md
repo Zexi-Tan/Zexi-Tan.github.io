@@ -28,12 +28,13 @@ redirect_from:
 
 .pub-img-wrap img {
   width: 100%;
-  height: 190px;
-  object-fit: cover;
+  height: 210px;
+  object-fit: contain;
+  object-position: center;
   border-radius: 4px;
   border: 1px solid #d9e2ef;
+  background: #ffffff;
 }
-
 .pub-venue {
   position: absolute;
   top: 10px;
