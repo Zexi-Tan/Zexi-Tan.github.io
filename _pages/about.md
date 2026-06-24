@@ -9,7 +9,7 @@ redirect_from:
 
 I am a third-year undergraduate student in the **Fuxi Class of Computer Science and Technology** at the **School of Computer Science and Technology, Guangdong University of Technology**. My mentor is **[Prof. Yiqun Zhang](https://yqzhang-zz.github.io/zh/)** at Guangdong University of Technology.
 
-## Research Interests
+## <i class="fas fa-flask"></i> Research Interests
 
 - Time Series Representation Learning
 - Unsupervised Learning and Data Mining
@@ -24,7 +24,7 @@ I am a third-year undergraduate student in the **Fuxi Class of Computer Science 
 - **2025**: Our team won the **First Prize** in the National Finals of the China Collegiate Computing Competition. (Membership: Rank 1)
 - ...
 
-## Selected Publications
+## <i class="fas fa-book-open"></i> Selected Publications
 
 ### Conference Papers
 
@@ -65,7 +65,7 @@ Rong Zou, Yunfan Zhang, Mingjie Zhao, **Zexi Tan**, Yiqun Zhang*, and Yiu-ming C
 *Neurocomputing* (**2025**)  
 JCR Q1
 
-## Projects
+## <i class="fas fa-code-branch"></i> Projects
 
 ### Representation Learning for Complex Time-Series Data
 
@@ -79,7 +79,7 @@ I also work on robust unsupervised learning for high-dimensional and dynamic dat
 
 Representative outcomes include papers published in **IEEE Internet of Things Journal**, **IEEE Transactions on Neural Networks and Learning Systems**, and **Neurocomputing**.
 
-## Honors and Awards
+## <i class="fas fa-trophy"></i> Honors and Awards
 
 - National Scholarship, 2024–2025
 - First Prize, China Collegiate Computing Competition, National Finals, 2025
@@ -91,15 +91,9 @@ Representative outcomes include papers published in **IEEE Internet of Things Jo
 - Bronze Award, “Challenge Cup” Qinchuangyuan China College Students’ Entrepreneurship Competition, 2024
 - Third Prize, Contemporary Undergraduate Mathematical Contest in Modeling, Guangdong Division, 2024
 
-## Academic Services
+## <i class="fas fa-users"></i> Academic Services
 
-- Editorial Board Member, *Open Access Journal of Data Science and Artificial Intelligence*
 - Reviewer, *IEEE Transactions on Emerging Topics in Computational Intelligence*
 - Reviewer, *IEEE International Conference on Bioinformatics and Biomedicine*, 2024 & 2025
 - Reviewer, *Pacific Rim International Conference on Artificial Intelligence*, 2025
 
-## Contact
-
-I am always open to academic discussions and research collaborations related to time-series data mining, unsupervised representation learning, and medical AI.
-
-Email: `tanzexi@mails.gdut.edu.cn`
