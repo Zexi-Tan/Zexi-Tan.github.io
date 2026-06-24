@@ -259,10 +259,28 @@ I am a third-year undergraduate student in the **Fuxi Class of Computer Science 
 
 ### Journal Papers
 
-**Hierarchical Reference Sets for Robust Unsupervised Detection of Scattered and Clustered Outliers**  
-Yiqun Zhang, **Zexi Tan**, Xiaopeng Luo*, and Yunlin Liu  
-*IEEE Internet of Things Journal* (**IoTJ 2025**)  
-JCR Q1 Top
+<div class="pub-card">
+  <div class="pub-img-wrap">
+    <img src="/images/publications/PRICAI2025.png" alt="PRICAI2025">
+    <div class="pub-venue">IoTJ · 2025</div>
+  </div>
+
+  <div class="pub-content">
+    <div class="pub-title">
+      Hierarchical Reference Sets for Robust Unsupervised Detection of Scattered and Clustered Outliers
+    </div>
+
+    <div class="pub-authors">
+     Yiqun Zhang, <strong>Zexi Tan</strong>, Xiaopeng Luo*, and Yunlin Liu 
+    </div>
+
+    <div class="pub-desc">
+      IEEE Internet of Things Journal.
+    </div>
+
+    <div class="pub-badge">JCR Q1 Top</div>
+  </div>
+</div>
 
 **Learning Self-Growth Maps for Fast and Accurate Imbalanced Streaming Data Clustering**  
 Yiqun Zhang, Sen Feng, Pengkai Wang, **Zexi Tan**, Xiaopeng Luo, Yuzhu Ji*, Rong Zou, and Yiu-ming Cheung*  
