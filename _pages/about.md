@@ -17,11 +17,12 @@ I am a third-year undergraduate student in the **Fuxi Class of Computer Science 
 ## News
 - **2026**: One paper was accepted by **SIGKDD 2026**.
 - **2026**: One paper was accepted by **AAAI 2026**.
+- **2025**: One paper was accepted by **IEEE Internet of Things Journal**.
 - **2025**: One paper was accepted by **IEEE BIBM 2025**.
 - **2025**: One paper was accepted by **PRICAI 2025**.
-- **2025**: One paper was accepted by **IEEE Internet of Things Journal**.
-- **2025**: Our team won the **First Prize** in the National Finals of the China Collegiate Computing Competition.
-- **2025**: Our team won the **Third Prize** in the National “Challenge Cup” Competition.
+- **2025**: Our team won the **Third Prize** in the National “Challenge Cup” Competition. (Membership: Rank 3)
+- **2025**: Our team won the **First Prize** in the National Finals of the China Collegiate Computing Competition. (Membership: Rank 1)
+- ...
 
 ## Selected Publications
 
