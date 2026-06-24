@@ -8,10 +8,27 @@ redirect_from:
 ---
 
 <style>
+@media screen and (min-width: 1024px) {
+  #main {
+    max-width: 1500px !important;
+  }
+
+  .page {
+    width: calc(100% - 300px) !important;
+    max-width: none !important;
+    padding-right: 0 !important;
+  }
+
+  .page__inner-wrap {
+    max-width: none !important;
+  }
+}
+
 .pub-card {
+  width: 100%;
   display: grid;
-  grid-template-columns: 40% 1fr;
-  gap: 2.2rem;
+  grid-template-columns: 38% 1fr;
+  gap: 2.4rem;
   align-items: center;
   padding: 1.35rem 1.55rem;
   margin: 1.35rem 0;
