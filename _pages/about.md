@@ -140,10 +140,111 @@ redirect_from:
     height: auto;
   }
 }
+
+.edu-section {
+  margin-top: 1.2rem;
+}
+
+.edu-card {
+  display: flex;
+  align-items: center;
+  gap: 1.2rem;
+  padding: 1rem 1.25rem;
+  margin: 1rem 0;
+  border: 1px solid #dbe8f5;
+  border-radius: 14px;
+  background: #ffffff;
+  box-shadow: 0 6px 18px rgba(30, 64, 120, 0.05);
+}
+
+.edu-logo {
+  width: 78px;
+  height: 78px;
+  flex: 0 0 78px;
+  border: 1px solid #dfe8f2;
+  border-radius: 12px;
+  background: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.edu-logo img {
+  width: 70%;
+  height: 70%;
+  object-fit: contain;
+}
+
+.edu-content {
+  flex: 1;
+}
+
+.edu-school {
+  font-size: 1.05rem;
+  font-weight: 800;
+  color: #1f365c;
+  margin-bottom: 0.25rem;
+}
+
+.edu-major {
+  font-size: 0.92rem;
+  color: #4b5563;
+  margin-bottom: 0.25rem;
+}
+
+.edu-date {
+  font-size: 0.86rem;
+  color: #667085;
+  font-weight: 700;
+}
+
+@media screen and (max-width: 768px) {
+  .edu-card {
+    align-items: flex-start;
+    gap: 0.9rem;
+    padding: 0.9rem;
+  }
+
+  .edu-logo {
+    width: 62px;
+    height: 62px;
+    flex-basis: 62px;
+  }
+}
 </style>
 
 
 I am a third-year undergraduate student in the **Fuxi Class of Computer Science and Technology** at the **School of Computer Science and Technology, Guangdong University of Technology**. My mentor is **[Prof. Yiqun Zhang](https://yqzhang-zz.github.io/zh/)** at Guangdong University of Technology. Under the guidance of my mentor, I have published 11 papers, with nearly 100 citations on Google Scholar.
+
+## <i class="fas fa-user-graduate"></i> Education
+
+<div class="edu-section">
+
+  <div class="edu-card">
+    <div class="edu-logo">
+      <img src="/images/GDUT.png" alt="Guangdong University of Technology">
+    </div>
+
+    <div class="edu-content">
+      <div class="edu-school">Guangdong University of Technology</div>
+      <div class="edu-major">B.S. in Computer Science and Technology</div>
+      <div class="edu-date">2023.09 – Present</div>
+    </div>
+  </div>
+
+  <div class="edu-card">
+    <div class="edu-logo">
+      <img src="/images/hlg.png" alt="Maoming No.1 High School">
+    </div>
+
+    <div class="edu-content">
+      <div class="edu-school">Huizhou Hualuogeng High School</div>
+      <div class="edu-date">2020.09 – 2023.06</div>
+    </div>
+  </div>
+
+</div>
 
 ## <i class="fas fa-search"></i> Research Interests
 
