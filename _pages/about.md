@@ -6,6 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<script>
+  document.title = "Zexi Tan - Homepage";
+</script>
 
 <style>
 @media screen and (min-width: 1024px) {
@@ -261,7 +264,7 @@ I have published **11 papers**, with nearly **100 citations on Google Scholar**.
 - **2025**: One paper was accepted by **IEEE Internet of Things Journal**.
 - **2025**: One paper was accepted by **IEEE BIBM 2025**.
 - **2025**: One paper was accepted by **PRICAI 2025**.
-- **2025**: Our team won the **Third Prize** in the National “Challenge Cup” Competition. (Membership: Rank 3)
+- **2025**: Our team won the **Third Prize** in the National “Challenge Cup” Competition.
 - **2025**: Our team won the **First Prize** in the National Finals of the China Collegiate Computing Competition. (**The Highest Prize**)
 - ...
 
