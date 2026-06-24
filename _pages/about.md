@@ -10,10 +10,10 @@ redirect_from:
 <style>
 .pub-card {
   display: grid;
-  grid-template-columns: 39% 1fr;
-  gap: 2rem;
+  grid-template-columns: 40% 1fr;
+  gap: 2.2rem;
   align-items: center;
-  padding: 1.4rem 1.6rem;
+  padding: 1.15rem 1.5rem;
   margin: 1.4rem 0;
   border: 1px solid #e6edf5;
   border-radius: 16px;
@@ -24,15 +24,23 @@ redirect_from:
 .pub-img-wrap {
   position: relative;
   width: 100%;
+  aspect-ratio: 2.35 / 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #ffffff;
+  border: 1px solid #d9e2ef;
+  border-radius: 5px;
+  overflow: hidden;
 }
 
 .pub-img-wrap img {
   width: 100%;
-  height: 210px;
+  height: 100%;
   object-fit: contain;
   object-position: center;
-  border-radius: 4px;
-  border: 1px solid #d9e2ef;
+  border: none;
+  border-radius: 0;
   background: #ffffff;
 }
 .pub-venue {
