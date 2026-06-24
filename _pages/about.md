@@ -9,7 +9,7 @@ redirect_from:
 
 I am a third-year undergraduate student in the **Fuxi Class of Computer Science and Technology** at the **School of Computer Science and Technology, Guangdong University of Technology**. My mentor is **[Prof. Yiqun Zhang](https://yqzhang-zz.github.io/zh/)** at Guangdong University of Technology.
 
-## <i class="fas fa-flask"></i> Research Interests
+## <i class="fas fa-search"></i> Research Interests
 
 - Time Series Representation Learning
 - Unsupervised Learning and Data Mining
