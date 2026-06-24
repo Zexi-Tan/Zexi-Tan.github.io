@@ -305,10 +305,29 @@ I am a third-year undergraduate student in the **Fuxi Class of Computer Science 
   </div>
 </div>
 
-**SDENK: Unbiased Subspace Density-k-Clustering**  
-Rong Zou, Yunfan Zhang, Mingjie Zhao, **Zexi Tan**, Yiqun Zhang*, and Yiu-ming Cheung*  
-*Neurocomputing* (**2025**)  
-JCR Q1
+<div class="pub-card">
+  <div class="pub-img-wrap">
+    <img src="/images/publications/TNNLS2025.png" alt="NEUCOM2025">
+    <div class="pub-venue">NEUCOM · 2025</div>
+  </div>
+
+  <div class="pub-content">
+    <div class="pub-title">
+      SDENK: Unbiased Subspace Density-k-Clustering
+    </div>
+
+    <div class="pub-authors">
+      Rong Zou, Yunfan Zhang, Mingjie Zhao, <strong>Zexi Tan</strong>, Yiqun Zhang*, Yiu-ming Cheung*  
+    </div>
+
+    <div class="pub-desc">
+      Neurocomputing.
+    </div>
+
+    <div class="pub-badge">JCR Q1</div>
+  </div>
+</div>
+
 
 ## <i class="fas fa-code-branch"></i> Projects
 
