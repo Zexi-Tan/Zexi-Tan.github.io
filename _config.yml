@@ -23,9 +23,9 @@ repository               : "Zexi-Tan/Zexi-Tan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Zexi_Tan.npg"
+  avatar           : "Zexi_Tan.png"
   name             : "Zexi Tan"
-  bio              : "111"
+  bio              : "BS · OMG Lab · GDUT"
   location         : "Gaungzhou, China"
   uri              : https://Zexi-Tan.github.io
   email            : "tanzexi@mails.gdut.edu.cn" 
