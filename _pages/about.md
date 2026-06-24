@@ -457,14 +457,17 @@ Representative outcomes include publications in **IEEE Internet of Things Journa
 
 ### Competitions and Research Awards
 
+* **International Grand Prize**, Huashang Smart Performance: Global AI Scenario-Based Practical Innovation Competition, 2026
+  *Rank-2 member; **The highest prize**.*
+
 * **National First Prize**, Chinese Collegiate Computing Competition, Big Data Track, 2025
-  *Rank-1 member and project host; officially recommended by **[Prof. Xiaoyong Du](https://rucdbmslab.github.io/author/%E6%9D%9C%E5%B0%8F%E5%8B%87/)**.*
+  *Rank-1 member and project host; **The highest prize**; officially recommended by **[Prof. Xiaoyong Du](https://rucdbmslab.github.io/author/%E6%9D%9C%E5%B0%8F%E5%8B%87/)**.*
 
 * **National Third Prize**, “Challenge Cup” National Undergraduate Academic Competition, Natural Science Academic Paper Track, 2025
   *Rank-3 member; advanced from the provincial grand prize team.*
 
-* **Grand Prize**, Guangdong “Challenge Cup” Undergraduate Academic Competition, Natural Science Academic Paper Track, 2025
-  *Top-ranked provincial award; officially recommended by **[Prof. Weiming Shen](https://mea.fyust.edu.cn/szdw/ysff/swm.htm)** and **[Prof. Hongming Cai](https://www2.scut.edu.cn/bioinformatics/sysPIjs/list.htm)**.*
+* **Provincial Grand Prize**, Guangdong “Challenge Cup” Undergraduate Academic Competition, Natural Science Academic Paper Track, 2025
+  *Top-ranked provincial award; **The highest prize**; officially recommended by **[Prof. Weiming Shen](https://mea.fyust.edu.cn/szdw/ysff/swm.htm)** and **[Prof. Hongming Cai](https://www2.scut.edu.cn/bioinformatics/sysPIjs/list.htm)**.*
 
 * **National Third Prize**, “Challenge Cup” Technological Innovation Track, 2024
   *Core member.*
