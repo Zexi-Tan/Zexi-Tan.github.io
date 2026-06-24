@@ -7,6 +7,117 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+.pub-card {
+  display: grid;
+  grid-template-columns: 39% 1fr;
+  gap: 2rem;
+  align-items: center;
+  padding: 1.4rem 1.6rem;
+  margin: 1.4rem 0;
+  border: 1px solid #e6edf5;
+  border-radius: 16px;
+  background: #ffffff;
+  box-shadow: 0 8px 24px rgba(30, 64, 120, 0.08);
+}
+
+.pub-img-wrap {
+  position: relative;
+  width: 100%;
+}
+
+.pub-img-wrap img {
+  width: 100%;
+  height: 190px;
+  object-fit: cover;
+  border-radius: 4px;
+  border: 1px solid #d9e2ef;
+}
+
+.pub-venue {
+  position: absolute;
+  top: 10px;
+  left: -8px;
+  padding: 7px 15px;
+  background: #1f5aa6;
+  color: #ffffff;
+  font-size: 0.82rem;
+  font-weight: 800;
+  letter-spacing: 0.02em;
+  border-radius: 0 4px 4px 0;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.18);
+}
+
+.pub-title {
+  margin: 0 0 0.65rem 0;
+  font-size: 1.08rem;
+  font-weight: 800;
+  line-height: 1.35;
+  color: #2f3b4a;
+}
+
+.pub-authors {
+  margin-bottom: 0.55rem;
+  font-size: 0.92rem;
+  color: #4b5563;
+}
+
+.pub-authors strong {
+  color: #26364a;
+}
+
+.pub-links {
+  margin: 0.45rem 0 0.65rem 0;
+}
+
+.pub-links a {
+  display: inline-block;
+  margin-right: 0.5rem;
+  padding: 0.18rem 0.58rem;
+  border-radius: 5px;
+  background: #eef6ff;
+  color: #1f5aa6;
+  font-size: 0.82rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.pub-links a:hover {
+  background: #1f5aa6;
+  color: #ffffff;
+}
+
+.pub-desc {
+  margin-top: 0.5rem;
+  font-size: 0.92rem;
+  line-height: 1.65;
+  color: #4b5563;
+}
+
+.pub-badge {
+  display: inline-block;
+  margin-top: 0.45rem;
+  padding: 0.18rem 0.55rem;
+  border-radius: 5px;
+  background: #e8f2fb;
+  color: #1d5c9f;
+  font-size: 0.78rem;
+  font-weight: 800;
+}
+
+@media screen and (max-width: 768px) {
+  .pub-card {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  .pub-img-wrap img {
+    height: auto;
+  }
+}
+</style>
+
+
 I am a third-year undergraduate student in the **Fuxi Class of Computer Science and Technology** at the **School of Computer Science and Technology, Guangdong University of Technology**. My mentor is **[Prof. Yiqun Zhang](https://yqzhang-zz.github.io/zh/)** at Guangdong University of Technology.
 
 ## <i class="fas fa-search"></i> Research Interests
@@ -28,10 +139,28 @@ I am a third-year undergraduate student in the **Fuxi Class of Computer Science 
 
 ### Conference Papers
 
-**Mask the Redundancy: Evolving Masking Representation Learning for Multivariate Time-Series Clustering**  
-**Zexi Tan**, Xiaopeng Luo, Yunlin Liu, and Yiqun Zhang*  
-*Proceedings of the 40th AAAI Conference on Artificial Intelligence* (**AAAI 2026**)  
-CCF-A
+<div class="pub-card">
+  <div class="pub-img-wrap">
+    <img src="/images/publications/mask_redundancy.png" alt="Mask the Redundancy">
+    <div class="pub-venue">AAAI · 2026</div>
+  </div>
+
+  <div class="pub-content">
+    <div class="pub-title">
+      Mask the Redundancy: Evolving Masking Representation Learning for Multivariate Time-Series Clustering
+    </div>
+
+    <div class="pub-authors">
+      <strong>Zexi Tan</strong>, Xiaopeng Luo, Yunlin Liu, and Yiqun Zhang*
+    </div>
+
+    <div class="pub-desc">
+      Proceedings of the 40th AAAI Conference on Artificial Intelligence.
+    </div>
+
+    <div class="pub-badge">CCF-A</div>
+  </div>
+</div>
 
 **DE3S: Dual-Enhanced Soft-Sparse-Shape Learning for Medical Early Time-Series Classification**  
 Tao Xie†, **Zexi Tan†**, Haoyi Xiao, Yiqun Zhang*, and Binbin Sun  
