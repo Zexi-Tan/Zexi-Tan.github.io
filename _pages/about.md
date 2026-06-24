@@ -271,7 +271,7 @@ I am a third-year undergraduate student in the **Fuxi Class of Computer Science 
     </div>
 
     <div class="pub-authors">
-     Yiqun Zhang, <strong>Zexi Tan</strong>, Xiaopeng Luo*, and Yunlin Liu 
+     Yiqun Zhang, <strong>Zexi Tan</strong>, Xiaopeng Luo*, Yunlin Liu 
     </div>
 
     <div class="pub-desc">
@@ -282,10 +282,28 @@ I am a third-year undergraduate student in the **Fuxi Class of Computer Science 
   </div>
 </div>
 
-**Learning Self-Growth Maps for Fast and Accurate Imbalanced Streaming Data Clustering**  
-Yiqun Zhang, Sen Feng, Pengkai Wang, **Zexi Tan**, Xiaopeng Luo, Yuzhu Ji*, Rong Zou, and Yiu-ming Cheung*  
-*IEEE Transactions on Neural Networks and Learning Systems* (**TNNLS 2025**)  
-JCR Q1 Top, ESI Highly Cited Paper
+<div class="pub-card">
+  <div class="pub-img-wrap">
+    <img src="/images/publications/TNNLS2025.png" alt="TNNLS2025">
+    <div class="pub-venue">TNNLS · 2025</div>
+  </div>
+
+  <div class="pub-content">
+    <div class="pub-title">
+      Learning Self-Growth Maps for Fast and Accurate Imbalanced Streaming Data Clustering
+    </div>
+
+    <div class="pub-authors">
+     Yiqun Zhang, Sen Feng, Pengkai Wang, <strong>Zexi Tan</strong>, Xiaopeng Luo, Yuzhu Ji*, Rong Zou, Yiu-ming Cheung*  
+    </div>
+
+    <div class="pub-desc">
+      IEEE Transactions on Neural Networks and Learning Systems.
+    </div>
+
+    <div class="pub-badge">JCR Q1 Top, ESI Highly Cited Paper</div>
+  </div>
+</div>
 
 **SDENK: Unbiased Subspace Density-k-Clustering**  
 Rong Zou, Yunfan Zhang, Mingjie Zhao, **Zexi Tan**, Yiqun Zhang*, and Yiu-ming Cheung*  
