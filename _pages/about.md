@@ -433,7 +433,7 @@ I am a third-year undergraduate student in the **Fuxi Class of Computer Science 
 
 ## <i class="fas fa-code-branch"></i> Projects
 
-### Complex Time-Series Representation Learning
+### Complex Time Series Representation Learning
 
 I serve as the **host and rank-1 member** of a national-level undergraduate innovation training project on complex time series representation learning, selected with a **top 1% selection rate** and completed with an outstanding evaluation. This project targets a central challenge in real-world temporal data: how to learn compact, discriminative, and semantically reliable representations from noisy, redundant, and heterogeneous multivariate time series signals.
 
@@ -455,13 +455,13 @@ Representative outcomes include publications in **IEEE Internet of Things Journa
 ### Competitions and Research Awards
 
 * **National First Prize**, Chinese Collegiate Computing Competition, Big Data Track, 2025
-  *Rank-1 member and project host; officially recommended by Prof. Xiaoyong Du.*
+  *Rank-1 member and project host; officially recommended by **[Prof. Xiaoyong Du](https://rucdbmslab.github.io/author/%E6%9D%9C%E5%B0%8F%E5%8B%87/)**.*
 
 * **National Third Prize**, “Challenge Cup” National Undergraduate Academic Competition, Natural Science Academic Paper Track, 2025
   *Rank-3 member; advanced from the provincial grand prize team.*
 
 * **Grand Prize**, Guangdong “Challenge Cup” Undergraduate Academic Competition, Natural Science Academic Paper Track, 2025
-  *Top-ranked provincial award; officially recommended by Prof. Weiming Shen and Prof. Hongming Cai.*
+  *Top-ranked provincial award; officially recommended by **[Prof. Weiming Shen](https://mea.fyust.edu.cn/szdw/ysff/swm.htm)** and **[Prof. Hongming Cai](https://www2.scut.edu.cn/bioinformatics/sysPIjs/list.htm)**.*
 
 * **National Third Prize**, “Challenge Cup” Technological Innovation Track, 2024
   *Core member.*
@@ -481,7 +481,7 @@ Representative outcomes include publications in **IEEE Internet of Things Journa
   *One of the highest national-level scholarships for undergraduates in China.*
 
 * **PRICAI+IVCNZ Student Scholarship**, 2025
-  *International scholarship; recommended by Prof. Yiu-ming Cheung.*
+  *International scholarship; recommended by **[Prof. Yiu-ming Cheung](https://www.comp.hkbu.edu.hk/%7Eymc/)**.*
 
 * **First Prize**, NSFOCUS Public Welfare Foundation Education Scholarship, 2025
   *The only recipient in Guangdong University of Technology.*
