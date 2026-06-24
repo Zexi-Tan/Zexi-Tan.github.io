@@ -189,7 +189,7 @@ I am a third-year undergraduate student in the **Fuxi Class of Computer Science 
 
 <div class="pub-card">
   <div class="pub-img-wrap">
-    <img src="/images/publications/mask_redundancy.png" alt="Mask the Redundancy">
+    <img src="/images/publications/KDD2026.png" alt="Mask the Redundancy">
     <div class="pub-venue">SIGKDD · 2026</div>
   </div>
 
