@@ -284,7 +284,7 @@ I have published **11 papers**, with nearly **100 citations on Google Scholar**.
     </div>
 
     <div class="pub-authors">
-      <strong>Zexi Tan</strong>, Xiaopeng Luo, Yunlin Liu, and Yiqun Zhang*
+      <strong>Zexi Tan</strong>, Xiaopeng Luo, Yunlin Liu, Yiqun Zhang*
     </div>
 
     <div class="pub-desc">
