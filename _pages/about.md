@@ -233,10 +233,28 @@ I am a third-year undergraduate student in the **Fuxi Class of Computer Science 
   </div>
 </div>
 
-**MEET-Sepsis: Multi-Endogenous-View Enhanced Time-Series Representation Learning for Early Sepsis Prediction**  
-**Zexi Tan**, Tao Xie, Binbin Sun, Xiang Zhang, Yiqun Zhang*, and Yiu-ming Cheung*  
-*Pacific Rim International Conference on Artificial Intelligence* (**PRICAI 2025**)  
-CCF-C
+<div class="pub-card">
+  <div class="pub-img-wrap">
+    <img src="/images/publications/mask_redundancy.png" alt="Mask the Redundancy">
+    <div class="pub-venue">PRICAI · 2025</div>
+  </div>
+
+  <div class="pub-content">
+    <div class="pub-title">
+      MEET-Sepsis: Multi-Endogenous-View Enhanced Time-Series Representation Learning for Early Sepsis Prediction
+    </div>
+
+    <div class="pub-authors">
+      <strong>Zexi Tan</strong>, Tao Xie, Binbin Sun, Xiang Zhang, Yiqun Zhang*, Yiu-ming Cheung*
+    </div>
+
+    <div class="pub-desc">
+      Proceedings of the 22nd Pacific Rim International Conference on Artificial Intelligence.
+    </div>
+
+    <div class="pub-badge">CCF-C</div>
+  </div>
+</div>
 
 
 ### Journal Papers
