@@ -284,7 +284,7 @@ I am a third-year undergraduate student in the **Fuxi Class of Computer Science 
 
 <div class="pub-card">
   <div class="pub-img-wrap">
-    <img src="/images/publications/TNNLS2025.png" alt="TNNLS2025">
+    <img src="/images/publications/TNNLS.png" alt="TNNLS2025">
     <div class="pub-venue">TNNLS · 2025</div>
   </div>
 
@@ -307,7 +307,7 @@ I am a third-year undergraduate student in the **Fuxi Class of Computer Science 
 
 <div class="pub-card">
   <div class="pub-img-wrap">
-    <img src="/images/publications/TNNLS2025.png" alt="NEUCOM2025">
+    <img src="/images/publications/NUECOM.png" alt="NEUCOM2025">
     <div class="pub-venue">NEUCOM · 2025</div>
   </div>
 
