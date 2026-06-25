@@ -514,6 +514,7 @@ Representative outcomes include publications in **IEEE Internet of Things Journa
 ## <i class="fas fa-users"></i> Academic Services
 
 - Reviewer, *IEEE Transactions on Emerging Topics in Computational Intelligence*
+- Reviewer, *The Journal of Supercomputing*
 - Reviewer, *IEEE International Conference on Bioinformatics and Biomedicine*, 2024 & 2025
 - Reviewer, *Pacific Rim International Conference on Artificial Intelligence*, 2025
 
