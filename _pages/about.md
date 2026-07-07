@@ -258,6 +258,7 @@ I have published **11 papers**, with nearly **100 citations on Google Scholar**.
 - Unsupervised Learning and Data Mining
 
 ## <i class="fas fa-bullhorn"></i> News
+- **2026**: I serve as a Program Committee member for **IEEE BIBM 2026**.
 - **2026**: Our team won the **Grand Prize** in the Huashang Smart Performance: Global AI Scenario-Based Practical Innovation Competition. (**The Highest Prize**)
 - **2026**: One paper was accepted by **SIGKDD 2026**.
 - **2026**: One paper was accepted by **AAAI 2026**.
@@ -265,7 +266,7 @@ I have published **11 papers**, with nearly **100 citations on Google Scholar**.
 - **2025**: One paper was accepted by **IEEE BIBM 2025**.
 - **2025**: One paper was accepted by **PRICAI 2025**.
 - **2025**: Our team won the **Third Prize** in the National “Challenge Cup” Competition.
-- **2025**: Our team won the **First Prize** in the National Finals of the China Collegiate Computing Competition. (**The Highest Prize**)
+<!-- - **2025**: Our team won the **First Prize** in the National Finals of the China Collegiate Computing Competition. (**The Highest Prize**) -->
 - ...
 
 ## <i class="fas fa-book-open"></i> Selected Publications
@@ -513,6 +514,7 @@ Representative outcomes include publications in **IEEE Internet of Things Journa
 
 ## <i class="fas fa-users"></i> Academic Services
 
+- Program Committee member, *IEEE International Conference on Bioinformatics and Biomedicine*, 2026
 - Reviewer, *IEEE Transactions on Emerging Topics in Computational Intelligence*
 - Reviewer, *The Journal of Supercomputing*
 - Reviewer, *IEEE International Conference on Bioinformatics and Biomedicine*, 2024 & 2025
