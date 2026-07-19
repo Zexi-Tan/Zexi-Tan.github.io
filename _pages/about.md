@@ -218,9 +218,11 @@ redirect_from:
 </style>
 
 
-I am a third-year undergraduate student in the **Fuxi Class of Computer Science and Technology** at the **School of Computer Science and Technology, Guangdong University of Technology**, advised by **[Prof. Yiqun Zhang](https://yqzhang-zz.github.io/zh/)**. My research focuses on **data mining**, **time series analysis**, and **unsupervised representation learning**, with a particular interest in learning robust and interpretable representations from noisy, redundant, and dynamic multivariate time series data.
+I am a fourth-year undergraduate student majoring in Computer Science and Technology in the prestigious **Fuxi Honors Class** at **Guangdong University of Technology (GDUT)**, where I am fortunate to be advised by **[Prof. Yiqun Zhang](https://yqzhang-zz.github.io/zh/)**.
 
-I have published **11 papers**, with more than **100 citations on Google Scholar**. My work has appeared in venues including **SIGKDD**, **AAAI**, **BIBM**, **PRICAI**, **IEEE Internet of Things Journal**, **TNNLS**, and **Neurocomputing**, and spans applications such as time series clustering, early medical prediction, streaming data mining, and robust outlier detection. I also serve as the **rank-1 host** of a national-level undergraduate innovation project and have received honors including the **National Scholarship** and the **National First Prize** in the Chinese Collegiate Computing Competition.
+My research primarily focuses on **data mining**, **time series analysis**, and **unsupervised representation learning**. I am particularly passionate about designing robust, interpretable frameworks to extract meaningful representations from noisy, redundant, and dynamic multivariate time series data. 
+
+To date, I have authored or co-authored **11 papers** with over **100 citations** on Google Scholar. My work has been accepted by top-tier conferences and journals, including **SIGKDD**, **AAAI**, **BIBM**, **PRICAI**, **IEEE Internet of Things Journal**, **TNNLS**, and **Neurocomputing**. In addition to my research publications, I serve as the **rank-1 host** of a national-level undergraduate innovation training project and **Global Tencent Campus Ambassador**.
 
 
 ## <i class="fas fa-user-graduate"></i> Education
@@ -258,6 +260,7 @@ I have published **11 papers**, with more than **100 citations on Google Scholar
 - Unsupervised Learning and Data Mining
 
 ## <i class="fas fa-bullhorn"></i> News
+- **2026**: I serve as a **Global Tencent Campus Ambassador**.
 - **2026**: I serve as a Program Committee member for **IEEE BIBM 2026**.
 - **2026**: I serve as a Program Committee member for **PRICAI 2026**.
 - **2026**: Our team won the **Grand Prize** in the Huashang Smart Performance: Global AI Scenario-Based Practical Innovation Competition. (**The Highest Prize**)
@@ -265,7 +268,7 @@ I have published **11 papers**, with more than **100 citations on Google Scholar
 - **2026**: One paper was accepted by **AAAI 2026**.
 - **2025**: One paper was accepted by **IEEE Internet of Things Journal**.
 - **2025**: One paper was accepted by **IEEE BIBM 2025**.
-- **2025**: One paper was accepted by **PRICAI 2025**.
+<!-- - **2025**: One paper was accepted by **PRICAI 2025**. -->
 <!-- - **2025**: Our team won the **Third Prize** in the National “Challenge Cup” Competition. -->
 <!-- - **2025**: Our team won the **First Prize** in the National Finals of the China Collegiate Computing Competition. (**The Highest Prize**) -->
 - ...
@@ -515,6 +518,7 @@ Representative outcomes include publications in **IEEE Internet of Things Journa
 
 ## <i class="fas fa-users"></i> Academic Services
 
+- Global Tencent Campus Ambassador, 2026
 - Program Committee member, *IEEE International Conference on Bioinformatics and Biomedicine*, 2026
 - Program Committee member, *Pacific Rim International Conference on Artificial Intelligence*, 2026
 - Reviewer, *IEEE Transactions on Emerging Topics in Computational Intelligence*
