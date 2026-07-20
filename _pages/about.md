@@ -222,7 +222,7 @@ I am a fourth-year undergraduate student majoring in Computer Science and Techno
 
 My research primarily focuses on **data mining**, **time series analysis**, and **unsupervised representation learning**. I am particularly passionate about designing robust, interpretable frameworks to extract meaningful representations from noisy, redundant, and dynamic multivariate time series data. 
 
-To date, I have authored or co-authored **11 papers** with over **100 citations** on Google Scholar. My work has been accepted by top-tier conferences and journals, including **SIGKDD**, **AAAI**, **BIBM**, **PRICAI**, **IoTJ**, **TNNLS**, and **Neurocomputing**. In addition to my research publications, I serve as IEEE BIBM/PRICAI PC member, the **rank-1 host** of a national-level undergraduate innovation training project and **global Tencent campus ambassador**.
+To date, I have authored or co-authored **11 papers** with over **100 citations** on Google Scholar. My work has been accepted by top-tier conferences and journals, including **SIGKDD**, **AAAI**, **BIBM**, **PRICAI**, **IoTJ**, **TNNLS**, and **Neurocomputing**. In addition to my research publications, I serve as **IEEE BIBM/PRICAI PC member**, the **rank-1 host** of a national-level undergraduate innovation training project and **global Tencent campus ambassador**.
 
 
 ## <i class="fas fa-user-graduate"></i> Education
