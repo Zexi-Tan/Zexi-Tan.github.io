@@ -475,7 +475,7 @@ Representative outcomes include publications in **IEEE Internet of Things Journa
   *Rank-3 member; advanced from the provincial grand prize team.*
 
 * **Provincial Grand Prize**, Guangdong “Challenge Cup” Undergraduate Academic Competition, Natural Science Academic Paper Track, 2025
-  *Top-ranked provincial award; **The highest prize**; officially recommended by **[Prof. Weiming Shen](https://mea.fyust.edu.cn/szdw/ysff/swm.htm)** and **[Prof. Hongming Cai](https://www2.scut.edu.cn/bioinformatics/sysPIjs/list.htm)**.*
+  *Top-ranked provincial award; **The highest prize**; officially recommended by **[Prof. Weiming Shen](https://mea.fyust.edu.cn/szdw/ysff/swm.htm)** and **[Prof. Hongmin Cai](https://www2.scut.edu.cn/bioinformatics/sysPIjs/list.htm)**.*
 
 * **National Third Prize**, “Challenge Cup” Technological Innovation Track, 2024
   *Core member.*
